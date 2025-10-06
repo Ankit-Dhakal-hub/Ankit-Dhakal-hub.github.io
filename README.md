@@ -19,7 +19,7 @@ It reflects my journey as a self-taught developer, my passion for web developmen
 [👉 View on Netlify](https://portfolio-project-1-1.netlify.app/)
 
 ## 📸 Screenshot
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](screenshot3.png)
 
 ## 📩 Contact
 If you like my work or want to collaborate, feel free to reach out through the contact form on my site.
